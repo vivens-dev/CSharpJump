@@ -1,0 +1,15 @@
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/bin/Debug/net8.0/App2Variables
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/bin/Debug/net8.0/App2Variables.deps.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/bin/Debug/net8.0/App2Variables.runtimeconfig.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/bin/Debug/net8.0/App2Variables.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/bin/Debug/net8.0/App2Variables.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/obj/Debug/net8.0/App2Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/obj/Debug/net8.0/App2Variables.AssemblyInfoInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/obj/Debug/net8.0/App2Variables.AssemblyInfo.cs
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/obj/Debug/net8.0/App2Variables.csproj.CoreCompileInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/obj/Debug/net8.0/App2Variables.sourcelink.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/obj/Debug/net8.0/App2Variables.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/obj/Debug/net8.0/refint/App2Variables.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/obj/Debug/net8.0/App2Variables.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/obj/Debug/net8.0/App2Variables.genruntimeconfig.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App2Variables/obj/Debug/net8.0/ref/App2Variables.dll
