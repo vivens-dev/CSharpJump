@@ -1,4 +1,5 @@
-﻿using System.Runtime.Intrinsics.Arm;
+﻿using System.Reflection.PortableExecutable;
+using System.Runtime.Intrinsics.Arm;
 using System.Runtime.Intrinsics.X86;
 using System.Security.Cryptography;
 
@@ -67,6 +68,26 @@ double t = double.PositiveInfinity;
 double u = Math.Pow(9999, 9999999999999999999); // Generate an infinite value
 
 Console.WriteLine($"Is u infinite: {double.IsInfinity(u)}");
+
+double v = 50.5; 
+
+double w = 300;
+
+Console.WriteLine(Math.Round(v));
+
+Console.WriteLine(Math.Floor(v));
+
+Console.WriteLine(Math.Ceiling(v));
+
+Console.WriteLine(Math.Truncate(v));
+
+Console.WriteLine(Math.Min(v, w));
+
+Console.WriteLine(Math.Max(v, w));
+
+Console.WriteLine(Math.Abs(v));
+
+Console.WriteLine(Math.Sign(v));
 
 
 
