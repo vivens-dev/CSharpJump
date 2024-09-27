@@ -19,7 +19,6 @@ int? v = null; // Nullable type
 Console.WriteLine($"The value of v is {v}");
 
 
-
 // variable - stores some value
 // identifier - what we call the variable
 // Expression - evaluates to a value
