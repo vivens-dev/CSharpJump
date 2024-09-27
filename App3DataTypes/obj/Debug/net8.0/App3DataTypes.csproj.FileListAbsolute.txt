@@ -1,0 +1,15 @@
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/bin/Debug/net8.0/App3DataTypes
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/bin/Debug/net8.0/App3DataTypes.deps.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/bin/Debug/net8.0/App3DataTypes.runtimeconfig.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/bin/Debug/net8.0/App3DataTypes.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/bin/Debug/net8.0/App3DataTypes.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/obj/Debug/net8.0/App3DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/obj/Debug/net8.0/App3DataTypes.AssemblyInfoInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/obj/Debug/net8.0/App3DataTypes.AssemblyInfo.cs
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/obj/Debug/net8.0/App3DataTypes.csproj.CoreCompileInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/obj/Debug/net8.0/App3DataTypes.sourcelink.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/obj/Debug/net8.0/App3DataTypes.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/obj/Debug/net8.0/refint/App3DataTypes.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/obj/Debug/net8.0/App3DataTypes.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/obj/Debug/net8.0/App3DataTypes.genruntimeconfig.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App3DataTypes/obj/Debug/net8.0/ref/App3DataTypes.dll
