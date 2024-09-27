@@ -1,0 +1,15 @@
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/bin/Debug/net8.0/App1HelloWorld
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/bin/Debug/net8.0/App1HelloWorld.deps.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/bin/Debug/net8.0/App1HelloWorld.runtimeconfig.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/bin/Debug/net8.0/App1HelloWorld.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/bin/Debug/net8.0/App1HelloWorld.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/obj/Debug/net8.0/App1HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/obj/Debug/net8.0/App1HelloWorld.AssemblyInfoInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/obj/Debug/net8.0/App1HelloWorld.AssemblyInfo.cs
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/obj/Debug/net8.0/App1HelloWorld.csproj.CoreCompileInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/obj/Debug/net8.0/App1HelloWorld.sourcelink.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/obj/Debug/net8.0/App1HelloWorld.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/obj/Debug/net8.0/refint/App1HelloWorld.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/obj/Debug/net8.0/App1HelloWorld.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/obj/Debug/net8.0/App1HelloWorld.genruntimeconfig.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App1HelloWorld/obj/Debug/net8.0/ref/App1HelloWorld.dll

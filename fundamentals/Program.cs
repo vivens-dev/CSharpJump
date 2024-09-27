@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Microsoft.VisualBasic;
 
 namespace fundamentals
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             // Initialize array 
             List<Person> people = new List<Person>()
