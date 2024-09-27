@@ -1,0 +1,15 @@
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/bin/Debug/netcoreapp8.0/fundamentals
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/bin/Debug/netcoreapp8.0/fundamentals.deps.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/bin/Debug/netcoreapp8.0/fundamentals.runtimeconfig.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/bin/Debug/netcoreapp8.0/fundamentals.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/bin/Debug/netcoreapp8.0/fundamentals.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/obj/Debug/netcoreapp8.0/fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/obj/Debug/netcoreapp8.0/fundamentals.AssemblyInfoInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/obj/Debug/netcoreapp8.0/fundamentals.AssemblyInfo.cs
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/obj/Debug/netcoreapp8.0/fundamentals.csproj.CoreCompileInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/obj/Debug/netcoreapp8.0/fundamentals.sourcelink.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/obj/Debug/netcoreapp8.0/fundamentals.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/obj/Debug/netcoreapp8.0/refint/fundamentals.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/obj/Debug/netcoreapp8.0/fundamentals.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/obj/Debug/netcoreapp8.0/fundamentals.genruntimeconfig.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/fundamentals/obj/Debug/netcoreapp8.0/ref/fundamentals.dll

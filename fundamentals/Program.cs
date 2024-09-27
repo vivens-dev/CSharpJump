@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Microsoft.VisualBasic;
 
 namespace fundamentals
 {
@@ -7,12 +8,12 @@ namespace fundamentals
     {
         static void Main(string[] args)
         {
-
+            // Initialize array 
             List<Person> people = new List<Person>()
             {
-                new Person{ FirstName = "Bob", LastName = "Doe", Age = 90, Hobby = "Cooking"},
                 new Person { FirstName = "Kate", LastName = "Smith", Age = 14, Hobby = "Soccer"},
-                new Person {FirstName = "Mike", LastName = "Johnson", Age = 30, Hobby = "Basketball"}
+                new Person {FirstName = "Mike", LastName = "Johnson", Age = 30, Hobby = "Basketball"},
+                new Person{ FirstName = "Bob", LastName = "Doe", Age = 90, Hobby = "Cooking"}
             };
 
             Person person;
@@ -39,6 +40,7 @@ namespace fundamentals
                 }
             }
             
+            // Output
             Console.WriteLine("");
             Console.WriteLine("HOBBY MOTIVATION:");
 
@@ -61,6 +63,18 @@ namespace fundamentals
                         break;
                 }
             }
+
+            // Find age and hobby for Mike Johnson
+
+            var mikeJohsonInfo = people.Find(p => p.LastName == "Johnson" && p.FirstName == "Mike");
+            
+            if(mikeJohsonInfo != null) { 
+                Console.WriteLine("");
+                Console.WriteLine($"Information for {mikeJohsonInfo.FirstName} {mikeJohsonInfo.LastName}:");
+                Console.WriteLine($"Age: {mikeJohsonInfo.Age}");
+                Console.WriteLine($"Hobby: {mikeJohsonInfo.Hobby}");
+            }
+
         }
     }
 }
