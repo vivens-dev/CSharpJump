@@ -1,4 +1,6 @@
 ﻿using System.Runtime.Intrinsics.Arm;
+using System.Runtime.Intrinsics.X86;
+using System.Security.Cryptography;
 
 int a = - 5;
 
@@ -47,6 +49,28 @@ Console.WriteLine($"The value of k[0]: {k[0]}");
 static void Test (int[] m) { 
      m[0] = 100;
 }
+
+int n = (int) 5.5; // Explicit type casting -> will crop off the decimal part
+double p = 5; // Implicity type casting -> It's safe to convert an int to a double
+// Think of data types as "backpacks", A backpack can only store items which fit its size
+
+float q = 5.5f; // A float literal must end with 'f', you can't assign a decimal to a float without explicitly converting it
+
+decimal r = 10.5M; // decimal is more precise than double
+
+double s = double.NaN;
+
+Console.WriteLine(double.IsNaN(s));
+
+double t = double.PositiveInfinity;
+
+double u = Math.Pow(9999, 9999999999999999999); // Generate an infinite value
+
+Console.WriteLine($"Is u infinite: {double.IsInfinity(u)}");
+
+
+
+
 
 
 
