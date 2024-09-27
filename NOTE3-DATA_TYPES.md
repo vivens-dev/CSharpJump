@@ -33,8 +33,8 @@
 - 99% of the time you will use `double`, the only circumstance you might need to use `float` is when you're limited on memory
 - `decimal` is more precise than `double` -> eg. `decimal x = 10.5M;` -> Eg. for money, scientific precisions
 
-
-
+## `Math` Class
+- The `Math` class has a lot of functions - A `function` and a `method` are the same, the difference is that a `method` is attached to an instance of the class while a `function` is attached to the class itself
 
 
 
