@@ -1,0 +1,15 @@
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/bin/Debug/net8.0/App4DataTypesCharAndString
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/bin/Debug/net8.0/App4DataTypesCharAndString.deps.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/bin/Debug/net8.0/App4DataTypesCharAndString.runtimeconfig.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/bin/Debug/net8.0/App4DataTypesCharAndString.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/bin/Debug/net8.0/App4DataTypesCharAndString.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/obj/Debug/net8.0/App4DataTypesCharAndString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/obj/Debug/net8.0/App4DataTypesCharAndString.AssemblyInfoInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/obj/Debug/net8.0/App4DataTypesCharAndString.AssemblyInfo.cs
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/obj/Debug/net8.0/App4DataTypesCharAndString.csproj.CoreCompileInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/obj/Debug/net8.0/App4DataTypesCharAndString.sourcelink.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/obj/Debug/net8.0/App4DataTypesCharAndString.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/obj/Debug/net8.0/refint/App4DataTypesCharAndString.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/obj/Debug/net8.0/App4DataTypesCharAndString.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/obj/Debug/net8.0/App4DataTypesCharAndString.genruntimeconfig.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App4DataTypesCharAndString/obj/Debug/net8.0/ref/App4DataTypesCharAndString.dll

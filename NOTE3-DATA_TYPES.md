@@ -37,4 +37,23 @@
 - The `Math` class has a lot of functions - A `function` and a `method` are the same, the difference is that a `method` is attached to an instance of the class while a `function` is attached to the class itself
 
 
+## `char`
+- The `char` is a built-in value type that represents one character in a string
+- ASCII table - shows how the characters are represented in memory
+- Unicode
+
+## `string` 
+- `string` is categorized under the Reference types, but it works as a simple type
+- `Value Types` are stored on the `stack` while Reference types are stored on what's known as the `hype`, we keep the `stack` thin, and that's why `string`s are Reference type for storage and performance reason
+- `string`s are immutable; when you modify a string, the original is thrown out and a new one is created
+- `string's properties and methods`
+    -  A `property` gives a value while a `method` does something (a method can compute a value)
+-  `string's escape sequence`
+    - E.g: an escape is needed for double quotes, single quotes don't need an escape
+    -  Backslash character
+    - `Verbatim text with @`
+
+
+
+
 
