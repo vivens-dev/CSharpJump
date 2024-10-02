@@ -1,0 +1,15 @@
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/bin/Debug/net8.0/App5CreatingClasses
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/bin/Debug/net8.0/App5CreatingClasses.deps.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/bin/Debug/net8.0/App5CreatingClasses.runtimeconfig.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/bin/Debug/net8.0/App5CreatingClasses.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/bin/Debug/net8.0/App5CreatingClasses.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/obj/Debug/net8.0/App5CreatingClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/obj/Debug/net8.0/App5CreatingClasses.AssemblyInfoInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/obj/Debug/net8.0/App5CreatingClasses.AssemblyInfo.cs
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/obj/Debug/net8.0/App5CreatingClasses.csproj.CoreCompileInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/obj/Debug/net8.0/App5CreatingClasses.sourcelink.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/obj/Debug/net8.0/App5CreatingClasses.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/obj/Debug/net8.0/refint/App5CreatingClasses.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/obj/Debug/net8.0/App5CreatingClasses.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/obj/Debug/net8.0/App5CreatingClasses.genruntimeconfig.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App5CreatingClasses/obj/Debug/net8.0/ref/App5CreatingClasses.dll
