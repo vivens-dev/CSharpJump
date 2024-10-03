@@ -1,0 +1,15 @@
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/bin/Debug/net8.0/App6Conditionals
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/bin/Debug/net8.0/App6Conditionals.deps.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/bin/Debug/net8.0/App6Conditionals.runtimeconfig.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/bin/Debug/net8.0/App6Conditionals.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/bin/Debug/net8.0/App6Conditionals.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/obj/Debug/net8.0/App6Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/obj/Debug/net8.0/App6Conditionals.AssemblyInfoInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/obj/Debug/net8.0/App6Conditionals.AssemblyInfo.cs
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/obj/Debug/net8.0/App6Conditionals.csproj.CoreCompileInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/obj/Debug/net8.0/App6Conditionals.sourcelink.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/obj/Debug/net8.0/App6Conditionals.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/obj/Debug/net8.0/refint/App6Conditionals.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/obj/Debug/net8.0/App6Conditionals.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/obj/Debug/net8.0/App6Conditionals.genruntimeconfig.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App6Conditionals/obj/Debug/net8.0/ref/App6Conditionals.dll
