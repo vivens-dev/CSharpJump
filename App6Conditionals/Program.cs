@@ -37,3 +37,17 @@ if(age > 12 && password == "password123") {
 if(!(age > 12)) { // Logical operator operator ! (NOT)
     Console.WriteLine("Sorry, you're underage");
 }
+
+string name2 = "Vivens";
+
+switch(name2) { 
+    case "Vivens":
+        Console.WriteLine("You are so legit");
+        break;
+    case "Bob":
+        Console.WriteLine ($"Holà {name2}");
+        break;
+    default:
+        Console.WriteLine("Who are you?");
+        break;
+}

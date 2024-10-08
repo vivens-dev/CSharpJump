@@ -13,5 +13,7 @@
     - `||` - Logical or -> Returns True if one of the statements is true
     - `!` - Logical not -> Reverses the result, returns the False if the result is true
 
-
-
+## Switch Statement
+- The switch statement is ideal for few values while `if else` should be used for complex comparisions with comparison and logical operators
+- Inside `case` you need `return` or `break`
+    
