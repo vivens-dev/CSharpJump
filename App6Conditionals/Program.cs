@@ -21,3 +21,19 @@ else if(person.FullName == fullNameGuess2) {
 else { 
     Console.WriteLine("Sorry, you don't know the name!");
 }
+
+
+/* Logical and comparison Operators */
+Console.WriteLine("Yo noob wuts ur age?");
+int age = Int32.Parse(Console.ReadLine());
+
+Console.WriteLine("Dawg whats the pass?");
+string password = Console.ReadLine();
+
+if(age > 12 && password == "password123") { 
+    Console.WriteLine("Welcome! You're at least a teenager and got correct password");
+}
+
+if(!(age > 12)) { // Logical operator operator ! (NOT)
+    Console.WriteLine("Sorry, you're underage");
+}
