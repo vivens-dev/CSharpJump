@@ -1,0 +1,15 @@
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/bin/Debug/net8.0/App7Loops
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/bin/Debug/net8.0/App7Loops.deps.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/bin/Debug/net8.0/App7Loops.runtimeconfig.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/bin/Debug/net8.0/App7Loops.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/bin/Debug/net8.0/App7Loops.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/obj/Debug/net8.0/App7Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/obj/Debug/net8.0/App7Loops.AssemblyInfoInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/obj/Debug/net8.0/App7Loops.AssemblyInfo.cs
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/obj/Debug/net8.0/App7Loops.csproj.CoreCompileInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/obj/Debug/net8.0/App7Loops.sourcelink.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/obj/Debug/net8.0/App7Loops.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/obj/Debug/net8.0/refint/App7Loops.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/obj/Debug/net8.0/App7Loops.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/obj/Debug/net8.0/App7Loops.genruntimeconfig.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App7Loops/obj/Debug/net8.0/ref/App7Loops.dll
