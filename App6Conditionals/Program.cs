@@ -51,3 +51,10 @@ switch(name2) {
         Console.WriteLine("Who are you?");
         break;
 }
+
+/* Ternary operator */
+bool correct = true;
+int pointsEarned = correct ? 10 : 0;
+Console.WriteLine(pointsEarned);
+
+

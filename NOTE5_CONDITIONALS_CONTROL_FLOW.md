@@ -16,4 +16,12 @@
 ## Switch Statement
 - The switch statement is ideal for few values while `if else` should be used for complex comparisions with comparison and logical operators
 - Inside `case` you need `return` or `break`
+
+## Ternary Operator
+- `?:` operator - the ternary conditional operator
+- The conditional operator `?:`, also known as the ternary conditional operator, evaluates a Boolean expression and returns the result of one of the two expressions, depending on whether the Boolean expression evaluates to true or false,
+- Allows to simplify `if else` to a single line of code
+- The structure of a ternary operator: `expression ? true : false`
+- eg: `var weather = tempInCelsius < 20.0 ? "Cold." : "Perfect!";`
+
     
