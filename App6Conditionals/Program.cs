@@ -57,4 +57,9 @@ bool correct = true;
 int pointsEarned = correct ? 10 : 0;
 Console.WriteLine(pointsEarned);
 
+/* Single line if statement */
+string name3 = "Messi";
+
+if(name3 == "Messi") Console.WriteLine("You are studd");
+
 

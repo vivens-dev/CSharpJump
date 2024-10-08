@@ -24,4 +24,7 @@
 - The structure of a ternary operator: `expression ? true : false`
 - eg: `var weather = tempInCelsius < 20.0 ? "Cold." : "Perfect!";`
 
+## Single line if statement
+
+
     
