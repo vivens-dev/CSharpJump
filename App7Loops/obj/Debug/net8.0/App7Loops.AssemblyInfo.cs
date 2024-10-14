@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("App7Loops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dd4ec3010de07a4a78190f0ff0a6a2da87e52ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5570952eba0d168f341a2a0079f5fbfe500ac409")]
 [assembly: System.Reflection.AssemblyProductAttribute("App7Loops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("App7Loops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

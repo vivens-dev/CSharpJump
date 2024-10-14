@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fundamentals", "fundamentals\fundamentals.csproj", "{C62905E6-1FB1-4338-AE90-F60F7EA8E04D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1HelloWorld", "App1HelloWorld\App1HelloWorld.csproj", "{68067E2F-0A22-4C4E-A61F-E3F087944770}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App2Variables", "App2Variables\App2Variables.csproj", "{0C450C60-D7F3-4827-93CA-A99E9EA5B6D6}"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("App5CreatingClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecbfa1ea35d3e1e4216496eceeffe5ef30e65b5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5570952eba0d168f341a2a0079f5fbfe500ac409")]
 [assembly: System.Reflection.AssemblyProductAttribute("App5CreatingClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("App5CreatingClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
