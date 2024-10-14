@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App6Conditionals", "App6Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App7Loops", "App7Loops\App7Loops.csproj", "{A26EECA4-3623-49FD-B194-7DBE192D6D91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App8Break", "App8Break\App8Break.csproj", "{75E561C2-F670-4524-9428-2CEA190E826B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{A26EECA4-3623-49FD-B194-7DBE192D6D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A26EECA4-3623-49FD-B194-7DBE192D6D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A26EECA4-3623-49FD-B194-7DBE192D6D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E561C2-F670-4524-9428-2CEA190E826B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E561C2-F670-4524-9428-2CEA190E826B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E561C2-F670-4524-9428-2CEA190E826B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E561C2-F670-4524-9428-2CEA190E826B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

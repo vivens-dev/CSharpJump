@@ -1,0 +1,15 @@
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/bin/Debug/net8.0/App8Break
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/bin/Debug/net8.0/App8Break.deps.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/bin/Debug/net8.0/App8Break.runtimeconfig.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/bin/Debug/net8.0/App8Break.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/bin/Debug/net8.0/App8Break.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/obj/Debug/net8.0/App8Break.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/obj/Debug/net8.0/App8Break.AssemblyInfoInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/obj/Debug/net8.0/App8Break.AssemblyInfo.cs
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/obj/Debug/net8.0/App8Break.csproj.CoreCompileInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/obj/Debug/net8.0/App8Break.sourcelink.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/obj/Debug/net8.0/App8Break.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/obj/Debug/net8.0/refint/App8Break.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/obj/Debug/net8.0/App8Break.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/obj/Debug/net8.0/App8Break.genruntimeconfig.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App8Break/obj/Debug/net8.0/ref/App8Break.dll
