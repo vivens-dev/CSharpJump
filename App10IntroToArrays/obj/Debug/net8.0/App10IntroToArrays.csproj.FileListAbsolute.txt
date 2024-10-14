@@ -1,0 +1,15 @@
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/bin/Debug/net8.0/App10IntroToArrays
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/bin/Debug/net8.0/App10IntroToArrays.deps.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/bin/Debug/net8.0/App10IntroToArrays.runtimeconfig.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/bin/Debug/net8.0/App10IntroToArrays.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/bin/Debug/net8.0/App10IntroToArrays.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/obj/Debug/net8.0/App10IntroToArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/obj/Debug/net8.0/App10IntroToArrays.AssemblyInfoInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/obj/Debug/net8.0/App10IntroToArrays.AssemblyInfo.cs
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/obj/Debug/net8.0/App10IntroToArrays.csproj.CoreCompileInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/obj/Debug/net8.0/App10IntroToArrays.sourcelink.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/obj/Debug/net8.0/App10IntroToArrays.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/obj/Debug/net8.0/refint/App10IntroToArrays.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/obj/Debug/net8.0/App10IntroToArrays.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/obj/Debug/net8.0/App10IntroToArrays.genruntimeconfig.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App10IntroToArrays/obj/Debug/net8.0/ref/App10IntroToArrays.dll

@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App8Break", "App8Break\App8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App9ContinueKeyword", "App9ContinueKeyword\App9ContinueKeyword.csproj", "{20D3FB22-3F90-46FF-ABA0-8F87AC7B04E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App10IntroToArrays", "App10IntroToArrays\App10IntroToArrays.csproj", "{5D16213E-6454-4DF6-875B-C615CEE859EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{20D3FB22-3F90-46FF-ABA0-8F87AC7B04E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20D3FB22-3F90-46FF-ABA0-8F87AC7B04E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20D3FB22-3F90-46FF-ABA0-8F87AC7B04E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D16213E-6454-4DF6-875B-C615CEE859EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D16213E-6454-4DF6-875B-C615CEE859EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D16213E-6454-4DF6-875B-C615CEE859EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D16213E-6454-4DF6-875B-C615CEE859EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
