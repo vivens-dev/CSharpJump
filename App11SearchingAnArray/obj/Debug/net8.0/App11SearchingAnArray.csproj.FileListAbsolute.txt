@@ -1,0 +1,15 @@
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/bin/Debug/net8.0/App11SearchingAnArray
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/bin/Debug/net8.0/App11SearchingAnArray.deps.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/bin/Debug/net8.0/App11SearchingAnArray.runtimeconfig.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/bin/Debug/net8.0/App11SearchingAnArray.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/bin/Debug/net8.0/App11SearchingAnArray.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/obj/Debug/net8.0/App11SearchingAnArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/obj/Debug/net8.0/App11SearchingAnArray.AssemblyInfoInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/obj/Debug/net8.0/App11SearchingAnArray.AssemblyInfo.cs
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/obj/Debug/net8.0/App11SearchingAnArray.csproj.CoreCompileInputs.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/obj/Debug/net8.0/App11SearchingAnArray.sourcelink.json
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/obj/Debug/net8.0/App11SearchingAnArray.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/obj/Debug/net8.0/refint/App11SearchingAnArray.dll
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/obj/Debug/net8.0/App11SearchingAnArray.pdb
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/obj/Debug/net8.0/App11SearchingAnArray.genruntimeconfig.cache
+/Users/vivens-mac/Documents/vivens-dev/CSharpJump/App11SearchingAnArray/obj/Debug/net8.0/ref/App11SearchingAnArray.dll

@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App9ContinueKeyword", "App9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App10IntroToArrays", "App10IntroToArrays\App10IntroToArrays.csproj", "{5D16213E-6454-4DF6-875B-C615CEE859EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1SearchingAnArray", "App1SearchingAnArray\App1SearchingAnArray.csproj", "{30CEC5D8-4641-4C81-9ACC-11EC57364848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App11SearchingAnArray", "App11SearchingAnArray\App11SearchingAnArray.csproj", "{68A839B4-5BEB-4DC4-993F-078EAC55F9D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,14 @@ Global
 		{5D16213E-6454-4DF6-875B-C615CEE859EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D16213E-6454-4DF6-875B-C615CEE859EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D16213E-6454-4DF6-875B-C615CEE859EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30CEC5D8-4641-4C81-9ACC-11EC57364848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30CEC5D8-4641-4C81-9ACC-11EC57364848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30CEC5D8-4641-4C81-9ACC-11EC57364848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30CEC5D8-4641-4C81-9ACC-11EC57364848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A839B4-5BEB-4DC4-993F-078EAC55F9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A839B4-5BEB-4DC4-993F-078EAC55F9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A839B4-5BEB-4DC4-993F-078EAC55F9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A839B4-5BEB-4DC4-993F-078EAC55F9D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
